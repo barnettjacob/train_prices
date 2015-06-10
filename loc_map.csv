@@ -1,0 +1,29 @@
+location,Time,day offset
+1,Early Morning,0
+2,Morning,0
+3,Afternoon,0
+4,Evening,0
+5,Early Morning,1
+6,Morning,1
+7,Afternoon,1
+8,Evening,1
+9,Early Morning,2
+10,Morning,2
+11,Afternoon,2
+12,Evening,2
+13,Early Morning,3
+14,Morning,3
+15,Afternoon,3
+16,Evening,3
+17,Early Morning,4
+18,Morning,4
+19,Afternoon,4
+20,Evening,4
+21,Early Morning,5
+22,Morning,5
+23,Afternoon,5
+24,Evening,5
+25,Early Morning,6
+26,Morning,6
+27,Afternoon,6
+28,Evening,6
